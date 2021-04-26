@@ -1,6 +1,6 @@
 {
     vendorId "eqela"
-    projectId "tasklist"
+    projectId "Tasklist"
     title "Sling Tasklist"
     libraries [
         "jk-db:0.19.0"

@@ -1,9 +1,9 @@
 {
     vendorId "eqela"
-    projectId "Tasklist"
+    projectId "taskist"
     title "Sling Tasklist"
     copyright "Copyright (c) 2021 Eqela"
-    linces   "All rights reserved."
+    license "All rights reserved."
     libraries [
         "jk-app:0.25.0"
         "jk-net:0.38.0"
